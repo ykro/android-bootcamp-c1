@@ -1,6 +1,5 @@
-Checkpoint 1 
-gdg-sw-android-bootcamp
-=======================
+Checkpoint 1 gdg-sw-android-bootcamp
+====================================
 [ES]<br/>
 Tareas<br/>
 <ol>
